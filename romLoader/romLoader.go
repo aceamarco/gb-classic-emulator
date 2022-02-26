@@ -1,0 +1,3 @@
+package romLoader
+
+func LoadRom() {}
